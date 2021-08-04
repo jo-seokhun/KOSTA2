@@ -13,7 +13,7 @@ int main()
 	printf("키를 cm단위로 입력해주세요\n나이도 입력해주세요:");
 	scanf("%d %d", &height, &age);   //scanf에는 변환자만 들어가야함 문자 들어가면 안돼 --- &를 붙이는건 방번호를 알려주는것이다
 	
-	sdf
+	
 
 	printf("안녕하세요.\n%s씨 반갑습니다.\n", name); // printf()=화면출력함수 --- \n=line feed 줄바꿈 문자 --- \r=cr=carrage return=출력위치를 제일 앞으로 가져가라 %s 변환자는 문자열
 	 
