@@ -1,3 +1,0 @@
-#KOSTA
-##KOSTA
-###KOSTA
