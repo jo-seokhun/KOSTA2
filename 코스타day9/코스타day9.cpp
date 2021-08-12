@@ -21,7 +21,7 @@ int main()
 
 	printf("[His Friend]\n");
 	printf("name : %s\n", (*man1.frnd).name);
-	printf("pID : %s\n", (*man1.frnd).pID);
+	printf("pID : %s\n", (*man1.frnd).pID);//hi
 
 	return 0;
 
