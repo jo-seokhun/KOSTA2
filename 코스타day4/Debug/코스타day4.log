@@ -1,0 +1,15 @@
+﻿  코스타day4.cpp
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day4\코스타day4.cpp(188,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day4\코스타day4.cpp(193,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day4\코스타day4.cpp(196,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day4\코스타day4.cpp(203,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day4\코스타day4.cpp(222,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day4\코스타day4.cpp(242,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day4\코스타day4.cpp(189,21): warning C4101: 'f' :참조되지 않은 지역 변수입니다.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day4\코스타day4.cpp(189,24): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+  코스타day4.vcxproj -> C:\Users\조석훈\source\repos\KOSTAKOSTA\Debug\코스타day4.exe

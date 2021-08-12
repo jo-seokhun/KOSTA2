@@ -1,0 +1,11 @@
+﻿  코스타day6.cpp
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day6\코스타day6.cpp(15,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day6\코스타day6.cpp(62,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day6\코스타day6.cpp(65,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day6\코스타day6.cpp(90,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day6\코스타day6.cpp(117,11): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day6\코스타day6.cpp(104): error C4716: 'swap': 값을 반환해야 합니다.

@@ -1,0 +1,5 @@
+﻿  박솔vs조석훈.cpp
+C:\Users\조석훈\source\repos\KOSTAKOSTA\박솔vs조석훈\박솔vs조석훈.cpp(11,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\조석훈\source\repos\KOSTAKOSTA\박솔vs조석훈\박솔vs조석훈.cpp(5,9): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  박솔vs조석훈.vcxproj -> C:\Users\조석훈\source\repos\KOSTAKOSTA\Debug\박솔vs조석훈.exe

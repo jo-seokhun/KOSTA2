@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (코스타day3(data_type).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  코스타day3(data_type).cpp
+C:\Users\조석훈\source\repos\KOSTAKOSTA\코스타day3(data_type)\코스타day3(data_type).cpp(8,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  코스타day3(data_type).vcxproj -> C:\Users\조석훈\source\repos\KOSTAKOSTA\Debug\datatype.exe
